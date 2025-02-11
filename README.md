@@ -9,7 +9,7 @@ We build and maintain a **service-oriented architecture** on **AWS**, leveraging
 
 ### 🚀 Tech Stack
 - **Frontend:** React, Remix and more ✨
-- **Cloud:** AWS (Lambda, ECS, S3, DynamoDB, SQS, SNS, Kafka, Ray etc.) ☁️
+- **Cloud:** AWS (Lambda, ECS, S3, RDS, DynamoDB, SQS, SNS, Kafka, Ray etc.) ☁️
 - **Backend:** Kotlin, Python, Node.js ⚙️
 - **Infrastructure:** Terraform 🪐
 
