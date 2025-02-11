@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm David! 👋  
+## Hi there, I'm David! 👋
 
 ### 🌍 About Me  
 I'm one of the core contributors to the **Airthings Cloud** platform, since August 2018.  
