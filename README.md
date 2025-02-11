@@ -6,6 +6,7 @@
 I'm one of the core contributors to the **Airthings Cloud** platform, since August 2018.  
 
 We build and maintain a **service-oriented architecture** on **AWS**, leveraging a mix of **ECS containers** and **Lambdas**. 
+
 Ingesting **thousands of air quality measurements per second** on our data streams to enable building feature rich products.  
 
 ### 🚀 Tech Stack
