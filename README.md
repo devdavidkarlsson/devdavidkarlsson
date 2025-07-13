@@ -11,7 +11,7 @@ I also enjoy solving problems through personal projects, often using technologie
 
 ### 🚀 Tech Stack
 - **Frontend:** React, Remix and more ✨
-- **Cloud:** AWS (Lambda, ECS, S3, RDS, DynamoDB, SQS, SNS, Kafka, Ray etc.) ☁️
+- **Cloud:** AWS (Lambda, ECS, S3, RDS, DynamoDB, SQS, SNS, Kafka, Bedrock, Anthropic LLMs, Ray etc.) ☁️
 - **Backend:** Kotlin, Python, Node.js ⚙️
 - **Infrastructure:** Terraform 🪐
 
